@@ -1,0 +1,9 @@
+# Unit 4 | Assignment - Pandas, Pandas, Pandas
+
+* You must include a written description of at least three observable trends based on the data.
+
+1.  The peak age group to play the game is ages 20-24 which I believe makes sense since this age group is still in college or just graduated college and have no jobs; meaning they have a lot of free time on their hands.
+
+2.  There are considerably more males than females that play the game; however, the average total purchase per person for the females is higher than the males; meaning they are spending more money on items than males.
+
+3.  3 of the 5 most popular items are also the most profitable items.  
